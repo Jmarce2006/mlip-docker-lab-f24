@@ -104,3 +104,6 @@ If you encounter issues:
 - Review service logs with `docker-compose logs`
 - Ensure the training service completes before the inference service starts
 
+### Screenshots
+
+![alt text](image.png)
